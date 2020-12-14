@@ -1,8 +1,7 @@
-function draw() {
-  background(220);
-}function setup() {
-  createCanvas(500, 550);
-}function setup() {
+
+
+
+function setup() {
   createCanvas(500, 550);
 }
 
@@ -25,9 +24,7 @@ function draw() {
 
 }
 
-function mouseClicked() {
 
-}
 
 
 
